@@ -22,7 +22,7 @@ We believe the MetaHOPE evaluation framework for metaphor translation annotation
 - metaphor-related words (MRW) alingment manual
 - Extracted / formated source files
 - human annotations with error severity on corpus used : English to Chinese; Chinese to English. 
-- Bilingual corpus created
+- Bilingual corpus created.
   
 
 
